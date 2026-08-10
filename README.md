@@ -8,7 +8,6 @@
   </a>
 </div>
 
-<br>
 <div align="center">
   <b>Flutter Developer</b> specializing in intelligent mobile systems, robust cloud architectures, and AI-assisted workflows.
 </div>
@@ -35,15 +34,10 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-### 📈 GitHub Analytics
-<div align="center">
-  <table align="center" style="border: none; background: transparent;">
-    <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAymanDahbour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" /></td>
-      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAymanDahbour&theme=tokyonight&hide_border=true&background=0D1117" width="400" /></td>
-    </tr>
-  </table>
-</div>
+### 🚀 Featured Projects
+<p align="center">
+  <i> 🛡️ Guardian360: Full architecture and codebase dropping soon after security audits... </i>
+</p>
 
 ---
 <div align="center">
