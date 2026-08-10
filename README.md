@@ -4,21 +4,21 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=039BE5&center=true&vCenter=true&width=600&lines=Smart+Device+Computing+Graduate;Flutter+%26+Mobile+App+Developer;Building+Guardian360+Ecosystem;AI+%26+Cloud+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=039BE5&center=true&vCenter=true&width=600&lines=Smart+Device+Computing;Flutter+%26+Mobile+App+Developer;Building+Guardian360+Ecosystem;AI+%26+Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-<h3 align="center">🚀 Transforming Complex Ideas into Smart Ecosystems</h3>
+<br>
+<div align="center">
+  <b>Flutter Developer</b> specializing in intelligent mobile systems, robust cloud architectures, and AI-assisted workflows.
+</div>
+<br>
 
----
-
-### 👨‍💻 The Architect Behind the Code
-I am a specialized **Flutter Developer** driven by the challenge of building intelligent, life-saving systems. I focus on delivering seamless mobile experiences backed by robust cloud architectures and AI-driven workflows.
-
-- 🌟 **Current Focus:** Leading the development of **Guardian360**, a smart emergency management ecosystem under the **VitaLink** architecture.
-- 🎓 **Background:** Smart Device Computing Graduate from Tafila Technical University.
+### 👨‍💻 Quick Facts
+- 🔭 **Building:** **Guardian360** (Smart Emergency Ecosystem) via the **VitaLink** architecture.
+- 🎓 **Education:** Smart Device Computing, Tafila Technical University.
 - 🏆 **Milestone:** Showcased project architecture at the *National Technology Parade 2026* (Public Safety Track).
-- 🤝 **Community:** Active in *Crown Prince Foundation* initiatives and *Kaggle* data science challenges.
+- 🤝 **Engagement:** Active in *Crown Prince Foundation* initiatives & *Kaggle* challenges.
 
 ### 🛠️ Tech Arsenal
 <p align="center">
