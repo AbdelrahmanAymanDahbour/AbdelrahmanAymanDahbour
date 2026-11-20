@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:0F172A&height=170&section=header&text=Abdelrahman%20Dahbour&fontSize=44&fontColor=F8FAFC&desc=Mobile%20Systems%20Engineer%20%E2%80%A2%20Monorepo%20Architectures%20%E2%80%A2%20AI-Native%20Workflows&descSize=16&descColor=38BDF8&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:0F172A&height=175&section=header&text=Abdelrahman%20Dahbour&fontSize=44&fontColor=F8FAFC&desc=Software%20%26%20Mobile%20Developer%20%E2%80%A2%20Flutter%20%26%20Frontend%20%E2%80%A2%20Clean%20Architecture&descSize=15&descColor=38BDF8&descAlignY=72" width="100%" />
 </div>
 
 <p align="center">
@@ -16,51 +16,56 @@
 
 ---
 
-### 🎯 Engineering Focus
-Cross-platform software engineer specializing in **production mobile systems**, **monorepo architectures**, and **cloud-backed applications**. Operating within **Jira-driven Agile teams** and leveraging **AI-native development** inside **Antigravity IDE** to deliver structured, maintainable, and thoroughly verified software.
+### 🎯 About Me
+
+**Smart Device Computing** graduate from **Tafila Technical University (2021–2026)** specializing in **Flutter mobile development**, **frontend engineering**, and **Clean Architecture**. I combine **MVVM** design, disciplined code analysis and review, and practical product/UX thinking to deliver structured, maintainable software—currently contributing as a **Frontend Intern** at **Orange Digital Center (Abdali)**.
 
 ---
 
 ### 🛠️ Technical Stack & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,flutter,dart,dotnet,cs,firebase,gcp,git,github&theme=dark" alt="Core Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,react,ts,nextjs,dotnet,cs,postman,vscode,androidstudio,git,github&perline=7&theme=dark" alt="Technical Stack Icons" />
 </p>
 
 <br>
 
-| Domain | Technologies & Standards |
+| Domain | Technologies & Practices |
 | :--- | :--- |
-| **Mobile & Languages** | ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo_SDK_57-0F172A?style=flat-square&logo=expo&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=02569B) ![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=0175C2) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6) |
-| **Architecture & Backend** | ![Turborepo](https://img.shields.io/badge/Turborepo-0F172A?style=flat-square&logo=turborepo&logoColor=EF4444) ![.NET](https://img.shields.io/badge/.NET-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4) ![C#](https://img.shields.io/badge/C%23-0F172A?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28) ![GCP](https://img.shields.io/badge/Google_Cloud-0F172A?style=flat-square&logo=googlecloud&logoColor=4285F4) |
-| **Agile, CI & Verification** | ![Jira](https://img.shields.io/badge/Jira-0F172A?style=flat-square&logo=jira&logoColor=0052CC) ![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white) ![QA](https://img.shields.io/badge/Build%2C_Lint_%26_API_Testing-0F172A?style=flat-square) |
-| **AI-Native IDE & Tooling** | ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-0284C7?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0F172A?style=flat-square&logo=githubcopilot&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-0F172A?style=flat-square&logo=googlegemini&logoColor=8E75B2) |
+| **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=02569B) ![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=0175C2) ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress_%26_Breakdance-0F172A?style=flat-square&logo=wordpress&logoColor=21759B) |
+| **Backend & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0F172A?style=flat-square&logo=googlecloud&logoColor=4285F4) ![.NET](https://img.shields.io/badge/.NET-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4) ![C#](https://img.shields.io/badge/C%23-0F172A?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=FF6C37) |
+| **Architecture & Workflow** | ![MVVM](https://img.shields.io/badge/MVVM-0284C7?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean_Code-0F172A?style=flat-square) ![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0F172A?style=flat-square&logo=jira&logoColor=0052CC) |
+| **IDEs, UX & AI Tooling** | ![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-0F172A?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-0284C7?style=flat-square) ![Canva](https://img.shields.io/badge/Canva_Wireframing-0F172A?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT-0F172A?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-0F172A?style=flat-square&logo=claude&logoColor=D97757) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-0F172A?style=flat-square&logo=googlegemini&logoColor=8E75B2) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0F172A?style=flat-square&logo=githubcopilot&logoColor=white) |
 
 ---
 
-### 🚀 Featured Systems
+### 🚀 Featured Projects
 
-#### 1. **Stealth Multi-App Mobile Platform** `In Development • Agile Team • Private Repo`
-Contributing to the core mobile architecture and shared client infrastructure within a structured **Jira** sprint workflow.
-* **Monorepo Architecture:** Multi-app **Turborepo** setup powered by **React Native (Expo SDK 57)** and **TypeScript**.
-* **Shared Packages:** Built runnable multi-app mobile shells consuming unified internal packages for bidirectional localization (**Arabic RTL / English LTR**) and a centralized **API Client**.
-* **Build & Quality Rigor:** Configured environment-aware Turbo caching and an opt-in iOS simulator workflow; validated changes through clean `build`, zero-error `lint`, automated API test suites, and physical Android device testing.
+#### 1. [**Guardian360 — VitaLink System**](https://github.com/AbdelrahmanAymanDahbour/Guardian360_APP-VitaLink) `Graduation Project • Team Leader • National Technology Parade 2026`
+Smart emergency response and public-safety ecosystem built with **Flutter**, **Dart**, **Firebase**, and **Google Cloud**.
+- **Leadership & MVVM Architecture:** Led the graduation project team and contributed hands-on across the core codebase applying **MVVM**, **Clean Architecture**, and structured state management.
+- **Cloud & Real-Time Infrastructure:** Integrated **Firebase** (Authentication, Cloud Firestore, Cloud Functions, Storage, Messaging) and **Google Maps** to support real-time emergency workflows.
+- **Security & Data Integrity:** Enforced multi-role **RBAC** and strict schema-validated database security rules (`firestore.rules`) with immutable audit tracking.
 
-#### 2. **Guardian360 (VitaLink Architecture)** — *Smart Emergency Ecosystem* `National Technology Parade 2026`
-Architected and showcased an intelligent emergency response platform at the **National Technology Parade 2026 (Public Safety Track)**.
-* **Stack:** **Flutter, Dart, Firebase, and Google Cloud Platform (GCP)**.
-* **Scope:** Mobile architecture integrated with real-time cloud services designed for structured public-safety workflows.
-
----
-
-### ⚙️ Engineering Standards
-* **Structured Agile Delivery:** Task-tracked execution via **Jira** with clear branch discipline and documented Pull Requests.
-* **Verification Before Merge:** Every change is backed by reproducible builds, linting checks, automated tests, and real-device validation.
-* **Modular & Shared-First Design:** Clean monorepo boundaries, reusable internal packages, and native **RTL / LTR** support from day one.
-* **AI-Native Precision:** Accelerated engineering workflows using **Antigravity IDE** while maintaining strict human architectural control.
+#### 2. **Multi-App Mobile Platform — Orange Digital Center (Abdali)** `Frontend Intern • Late 2026 • Private Repo`
+Collaborating within an internship engineering team at **Orange Digital Center (Abdali)** through late 2026 on a cross-platform mobile application.
+- **Frontend Engineering:** Developing cross-platform mobile shells and shared UI infrastructure using **React Native (Expo)** and **TypeScript** inside a **Turborepo** workspace.
+- **Localization & Integration:** Contributing to unified **Arabic RTL / English LTR** localization and centralized API client integration within a structured **Jira** sprint workflow.
 
 ---
 
-### 🎓 Background & Community
-* **Education:** Smart Device Computing — *Tafila Technical University*.
-* **Community:** Active participant in *Crown Prince Foundation* tech initiatives and *Kaggle* challenges.
+### ⚙️ Engineering Principles
+
+- **Clean Architecture & MVVM:** Designing modular codebases with clear separation of concerns for readability and long-term maintainability.
+- **Analysis & Verification First:** Prioritizing systematic code inspection, backend API testing (**Postman**), linting, and real-device validation before merging.
+- **Product, Market & UX Awareness:** Combining competitor and website analysis, wireframing (**Canva**), and responsive web design to align technical execution with real user and business needs.
+- **Disciplined AI-Assisted Workflow:** Leveraging **ChatGPT**, **Claude**, **Gemini**, and **GitHub Copilot** alongside **VS Code** and **Android Studio** while keeping full human architectural ownership.
+
+---
+
+### 🎓 Education & Training
+
+- **B.Sc. in Smart Device Computing** — *Tafila Technical University (2021 – 2026)*
+- **Frontend Development Internship** — *Orange Digital Center, Abdali (Late 2026 – Present)*
+- **Backend Development Training** — *Flasha (40 Hours, Completed August 2026)*
+- **Tariqi Program (Business Development Center — BDC) & Practical Training at [UBLAC](https://ublac.com/):** Soft skills and UI/UX design fundamentals, followed by hands-on practical training in website & competitor analysis, marketing vs. branding fundamentals, Canva user workflows & wireframing, and WordPress / Breakdance.
